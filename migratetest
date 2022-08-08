@@ -3,6 +3,7 @@ public class Migrate
 {
   public MigrateTest
   {
-    Console.WriteLine("Hello world!")
+    Console.WriteLine("Hello world!");
+    Console.WriteLine("This is a test commit.");
   }
 }

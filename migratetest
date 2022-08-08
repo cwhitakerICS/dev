@@ -1,0 +1,8 @@
+using System;
+public class Migrate
+{
+  public MigrateTest
+  {
+    Console.WriteLine("Hello world!")
+  }
+}
